@@ -350,6 +350,7 @@ pau n a ts iir r t n uu tj pau
 pau n a ts iir r t o l pau 
 pau n a d i sh l a pau 
 pau n a d v i a z a n e j pau 
+pau n a j d e p r e s ii v nj e j sh ii pau 
 pau n a j i n t e n z ii v nj e j sh i e pau 
 pau n a j m e nj e j pau 
 pau n a j f sh e o b e c nj e j sh ii pau 
@@ -741,6 +742,7 @@ pau z o f sh e o b e c nj i tj pau
 pau z v o nj i c a pau 
 pau z v y k n u t ii pau 
 pau z zh i t ii pau 
+pau zh a n e t a pau 
 pau zh aa n e r pau 
 pau zh i a d e n pau 
 pau zh iil l t e j pau 

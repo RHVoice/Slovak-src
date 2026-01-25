@@ -159,7 +159,7 @@ define Symbol
 %‴:[trojitá indexová čiarka] |
 %~:[vlnovka] ; 
 
-source unicodechars.foma
+source unicode_spell.foma
 
 regex 
 Letter | Digit | Whitespace | Punctuation | Symbol | UnicodeSpell ; 

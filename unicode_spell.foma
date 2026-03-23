@@ -2,13 +2,13 @@
 #
 #For spelling:
 define UnicodeSpell 
-[[%à]:[á s prízvukom]]|
-[[%â]:[á s vokáňom]]|
+[[%à|%À]:[á s prízvukom]]|
+[[%â|%Â]:[á s vokáňom]]|
 [[%ầ|%Ầ]:[á s vokáňom a s prízvukom]]|
 [[%ấ|%Ấ]:[á s vokáňom a s dĺžňom]]|
 [[%ẫ|%Ẫ]:[á s vokáňom a s vlnovkou]]|
 [[%ẩ|%Ẩ]:[á s vokáňom a s háčikom nad]]|
-[[%ã]:[á s vlnovkou]]|
+[[%ã|%Ã]:[á s vlnovkou]]|
 [[%ā|%Ā]:[á s makrónom]]|
 [[%ă|%Ă]:[á s oblúčikom]]|
 [[%ằ|%Ằ]:[á s oblúčikom a s prízvukom]]|
@@ -18,7 +18,7 @@ define UnicodeSpell
 [[%ȧ|%Ȧ]:[á s bodkou nad]]|
 [[%ǡ|%Ǡ]:[á s bodkou nad a s makrónom]]|
 [[%ả|%Ả]:[á s háčikom nad]]|
-[[%å]:[á s krúžkom]]|
+[[%å|%Å]:[á s krúžkom]]|
 [[%ǻ|%Ǻ]:[á s krúžkom a s dĺžňom]]|
 [[%ǎ|%Ǎ]:[á s mäkčeňom]]|
 [[%ȁ|%Ȁ]:[á s dvojitým prízvukom]]|
@@ -55,7 +55,7 @@ define UnicodeSpell
 [[%ḉ|%Ḉ]:[cé s dĺžňom a s cedillou]]|
 [[%ĉ|%Ĉ]:[cé s vokáňom]]|
 [[%ċ|%Ċ]:[cé s bodkou nad]]|
-[[%ç]:[cé s cedillou]]|
+[[%ç|%Ç]:[cé s cedillou]]|
 [[%ḉ|%Ḉ]:[cé s cedillou a s dĺžňom]]|
 [[%𝐜|%𝐂]:[cé Tučné Matematické]]|
 [[%𝑐|%𝐶]:[cé Kurzíva Matematické]]|
@@ -85,8 +85,8 @@ define UnicodeSpell
 [[%𝘥|%𝘋]:[dé Kurzíva Bezpätkové Matematické]]|
 [[%𝙙|%𝘿]:[dé Tučné Kurzíva Bezpätkové Matematické]]|
 [[%𝚍|%𝙳]:[dé S pevnou šírkou Matematické]]|
-[[%è]:[é s prízvukom]]|
-[[%ê]:[é s vokáňom]]|
+[[%è|%È]:[é s prízvukom]]|
+[[%ê|%Ê]:[é s vokáňom]]|
 [[%ề|%Ề]:[é s vokáňom a s prízvukom]]|
 [[%ế|%Ế]:[é s vokáňom a s dĺžňom]]|
 [[%ễ|%Ễ]:[é s vokáňom a s vlnovkou]]|
@@ -98,7 +98,7 @@ define UnicodeSpell
 [[%ĕ|%Ĕ]:[é s oblúčikom]]|
 [[%ḝ|%Ḝ]:[é s oblúčikom a s cedillou]]|
 [[%ė|%Ė]:[é s bodkou nad]]|
-[[%ë]:[é s prehláskou]]|
+[[%ë|%Ë]:[é s prehláskou]]|
 [[%ẻ|%Ẻ]:[é s háčikom nad]]|
 [[%ȅ|%Ȅ]:[é s dvojitým prízvukom]]|
 [[%ȇ|%Ȇ]:[é s obráteným oblúčikom]]|
@@ -169,12 +169,12 @@ define UnicodeSpell
 [[%𝘩|%𝘏]:[há Kurzíva Bezpätkové Matematické]]|
 [[%𝙝|%𝙃]:[há Tučné Kurzíva Bezpätkové Matematické]]|
 [[%𝚑|%𝙷]:[há S pevnou šírkou Matematické]]|
-[[%ì]:[í s prízvukom]]|
-[[%î]:[í s vokáňom]]|
+[[%ì|%Ì]:[í s prízvukom]]|
+[[%î|%Î]:[í s vokáňom]]|
 [[%ĩ|%Ĩ]:[í s vlnovkou]]|
 [[%ī|%Ī]:[í s makrónom]]|
 [[%ĭ|%Ĭ]:[í s oblúčikom]]|
-[[%ï]:[í s prehláskou]]|
+[[%ï|%Ï]:[í s prehláskou]]|
 [[%ḯ|%Ḯ]:[í s prehláskou a s dĺžňom]]|
 [[%ỉ|%Ỉ]:[í s háčikom nad]]|
 [[%ǐ|%Ǐ]:[í s mäkčeňom]]|
@@ -256,7 +256,7 @@ define UnicodeSpell
 [[%𝚖|%𝙼]:[em S pevnou šírkou Matematické]]|
 [[%ǹ|%Ǹ]:[en s prízvukom]]|
 [[%ń|%Ń]:[en s dĺžňom]]|
-[[%ñ]:[en s vlnovkou]]|
+[[%ñ|%Ñ]:[en s vlnovkou]]|
 [[%ṅ|%Ṅ]:[en s bodkou nad]]|
 [[%ņ|%Ņ]:[en s cedillou]]|
 [[%𝐧|%𝐍]:[en Tučné Matematické]]|
@@ -272,8 +272,8 @@ define UnicodeSpell
 [[%𝘯|%𝘕]:[en Kurzíva Bezpätkové Matematické]]|
 [[%𝙣|%𝙉]:[en Tučné Kurzíva Bezpätkové Matematické]]|
 [[%𝚗|%𝙽]:[en S pevnou šírkou Matematické]]|
-[[%ò]:[ó s prízvukom]]|
-[[%õ]:[ó s vlnovkou]]|
+[[%ò|%Ò]:[ó s prízvukom]]|
+[[%õ|%Õ]:[ó s vlnovkou]]|
 [[%ṍ|%Ṍ]:[ó s vlnovkou a s dĺžňom]]|
 [[%ȭ|%Ȭ]:[ó s vlnovkou a s makrónom]]|
 [[%ṏ|%Ṏ]:[ó s vlnovkou a s prehláskou]]|
@@ -385,8 +385,8 @@ define UnicodeSpell
 [[%𝘵|%𝘛]:[té Kurzíva Bezpätkové Matematické]]|
 [[%𝙩|%𝙏]:[té Tučné Kurzíva Bezpätkové Matematické]]|
 [[%𝚝|%𝚃]:[té S pevnou šírkou Matematické]]|
-[[%ù]:[ú s prízvukom]]|
-[[%û]:[ú s vokáňom]]|
+[[%ù|%Ù]:[ú s prízvukom]]|
+[[%û|%Û]:[ú s vokáňom]]|
 [[%ũ|%Ũ]:[ú s vlnovkou]]|
 [[%ṹ|%Ṹ]:[ú s vlnovkou a s dĺžňom]]|
 [[%ū|%Ū]:[ú s makrónom]]|
@@ -496,9 +496,10 @@ define UnicodeSpell
 [[%𝘻|%𝘡]:[zet Kurzíva Bezpätkové Matematické]]|
 [[%𝙯|%𝙕]:[zet Tučné Kurzíva Bezpätkové Matematické]]|
 [[%𝚣|%𝚉]:[zet S pevnou šírkou Matematické]]|
+[[%ø|%Ø]:[preškrtnuté ó]]|
 [[%đ|%Đ]:[dé so šikmým dĺžňom]]|
 [[%ħ|%Ħ]:[há so šikmým dĺžňom]]|
-[[%ı]:[í bez bodky]]|
+[[%ı|%I]:[í bez bodky]]|
 [[%ĸ]:[kra]]|
 [[%ł|%Ł]:[el so šikmým dĺžňom]]|
 [[%ŋ|%Ŋ]:[eng]]|

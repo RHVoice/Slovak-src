@@ -60,6 +60,7 @@ accentSuffixes = {
 fullWidth = "plná šírka"
 
 latinExceptions = {
+	'ø': ('o', 'preškrtnuté ó'),
 	'đ': ('d', 'dé so šikmým dĺžňom'),
 	'ħ': ('h', 'há so šikmým dĺžňom'),
 	'ı': ('i', 'í bez bodky'),
@@ -347,7 +348,7 @@ def appendLists(lowcaseChar, upcaseChar, nativeStr, descStr):
 		spellDict[descStr].append("%"+lowcaseChar)
 	if lowcaseChar:
 		lseqDict[lseqStr].append("%"+lowcaseChar)
-	if upcaseChar and upcaseChar != lowcaseChar and ord(upcaseChar) >=255:
+	if upcaseChar and upcaseChar != lowcaseChar:
 		if lowcaseChar:
 			downcaseParts.append("%"+upcaseChar+" -> %"+lowcaseChar+" || _ ")
 		if nativeStr:

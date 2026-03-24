@@ -348,7 +348,7 @@ def appendLists(lowcaseChar, upcaseChar, nativeStr, descStr):
 		spellDict[descStr].append("%"+lowcaseChar)
 	if lowcaseChar:
 		lseqDict[lseqStr].append("%"+lowcaseChar)
-	if upcaseChar and upcaseChar != lowcaseChar:
+	if upcaseChar and upcaseChar != lowcaseChar and not ord(upcaseChar) in range(ord("A"), ord("Z") +1):
 		if lowcaseChar:
 			downcaseParts.append("%"+upcaseChar+" -> %"+lowcaseChar+" || _ ")
 		if nativeStr:

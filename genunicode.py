@@ -254,8 +254,8 @@ fullWidthOffset = 0xfee0
 
 # Math unicode symbols that mirror basic latin alphabet
 # description is appended to the letter spelling such as a bold, a italic
-# Offset is a difference between basic unicode character and math unicode symbol
-# Python's builtin transformation from lowercase to uppercase and the other way round is not supported thus store two offset for each type.
+# Offset is a difference between basic lowercase unicode character and math unicode symbol
+# Python's builtin transformation from lowercase to uppercase and the other way round is not supported consistently thus store two offsets for each type.
 unicodeMath = (
 	#(description, upper case offset, lowercase offset)
 	('Tučné Matematické', 0x1d39f, 0x1d3b9), # MATHEMATICAL BOLD
@@ -271,6 +271,8 @@ unicodeMath = (
 	('Kurzíva Bezpätkové Matematické', 0x1d5a7, 0x1d5c1), # MATHEMATICAL SANS-SERIF ITALIC
 	('Tučné Kurzíva Bezpätkové Matematické', 0x1d5db, 0x1d5f5), # MATHEMATICAL SANS-SERIF BOLD ITALIC
 	('S pevnou šírkou Matematické', 0x1d60f, 0x1d629), # MATHEMATICAL MONOSPACE
+	('Zakrúškované', 0x2455, 0x246f), # CIRCLED
+	('v zátvorke', None, 0x243b), # PARENTHESIZED
 )
 
 # Path to the folder where this script is located in
@@ -412,13 +414,19 @@ for i in range(ord("a"), ord("z") +1):
 			print(descStr)
 			appendLists(lowcaseChar, upcaseChar, nativeStr, descStr)
 	for fontType in unicodeMath:
-		lowcaseChar = chr(ord(baseChar) +fontType[2])
+		try:
+			lowcaseChar = chr(i +fontType[2])
+		except:
+			lowcaseChar = ''
 		lowcaseCharName = ''
 		try:
 			lowcaseCharName = unicodedata.name(lowcaseChar)
 		except:
 			lowcaseChar = ''
-		upcaseChar = chr(ord(baseChar) +fontType[1])
+		try:
+			upcaseChar = chr(i +fontType[1])
+		except:
+			upcaseChar = ''
 		upcaseCharName = ''
 		try:
 			upcaseCharName = unicodedata.name(upcaseChar)

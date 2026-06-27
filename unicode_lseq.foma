@@ -37,6 +37,8 @@ define UnicodeLseq
 [%𝘢]:[aa k u r z ii v a b e s p ae t k o v ee m a t e m a t i c k ee]|
 [%𝙖]:[aa t u ts n ee k u r z ii v a b e s p ae t k o v ee m a t e m a t i c k ee]|
 [%𝚊]:[aa s p e v n o u sh ii r k o u m a t e m a t i c k ee]|
+[%ⓐ]:[aa z a k r uu sh k o v a n ee]|
+[%⒜]:[aa v z aa t v o r k e]|
 [%ḃ]:[b ee z b o t k o u n a t]|
 [%𝐛]:[b ee t u ts n ee m a t e m a t i c k ee]|
 [%𝑏]:[b ee k u r z ii v a m a t e m a t i c k ee]|
@@ -51,6 +53,8 @@ define UnicodeLseq
 [%𝘣]:[b ee k u r z ii v a b e s p ae t k o v ee m a t e m a t i c k ee]|
 [%𝙗]:[b ee t u ts n ee k u r z ii v a b e s p ae t k o v ee m a t e m a t i c k ee]|
 [%𝚋]:[b ee s p e v n o u sh ii r k o u m a t e m a t i c k ee]|
+[%ⓑ]:[b ee z a k r uu sh k o v a n ee]|
+[%⒝]:[b ee v z aa t v o r k e]|
 [%ć]:[c ee z d iil ll zh nj o m]|
 [%ḉ]:[c ee z d iil ll zh nj o m a s c e dj i l l o u]|
 [%ĉ]:[c ee z v o k aa nj o m]|
@@ -70,6 +74,8 @@ define UnicodeLseq
 [%𝘤]:[c ee k u r z ii v a b e s p ae t k o v ee m a t e m a t i c k ee]|
 [%𝙘]:[c ee t u ts n ee k u r z ii v a b e s p ae t k o v ee m a t e m a t i c k ee]|
 [%𝚌]:[c ee s p e v n o u sh ii r k o u m a t e m a t i c k ee]|
+[%ⓒ]:[c ee z a k r uu sh k o v a n ee]|
+[%⒞]:[c ee v z aa t v o r k e]|
 [%ḋ]:[d ee z b o t k o u n a t]|
 [%ḑ]:[d ee s c e dj i l l o u]|
 [%𝐝]:[d ee t u ts n ee m a t e m a t i c k ee]|
@@ -85,6 +91,8 @@ define UnicodeLseq
 [%𝘥]:[d ee k u r z ii v a b e s p ae t k o v ee m a t e m a t i c k ee]|
 [%𝙙]:[d ee t u ts n ee k u r z ii v a b e s p ae t k o v ee m a t e m a t i c k ee]|
 [%𝚍]:[d ee s p e v n o u sh ii r k o u m a t e m a t i c k ee]|
+[%ⓓ]:[d ee z a k r uu sh k o v a n ee]|
+[%⒟]:[d ee v z aa t v o r k e]|
 [%è]:[ee s p iir r ii z v u k o m]|
 [%ê]:[ee z v o k aa nj o m]|
 [%ề]:[ee z v o k aa nj o m a s p iir r ii z v u k o m]|
@@ -117,6 +125,8 @@ define UnicodeLseq
 [%𝘦]:[ee k u r z ii v a b e s p ae t k o v ee m a t e m a t i c k ee]|
 [%𝙚]:[ee t u ts n ee k u r z ii v a b e s p ae t k o v ee m a t e m a t i c k ee]|
 [%𝚎]:[ee s p e v n o u sh ii r k o u m a t e m a t i c k ee]|
+[%ⓔ]:[ee z a k r uu sh k o v a n ee]|
+[%⒠]:[ee v z aa t v o r k e]|
 [%ḟ]:[e v z b o t k o u n a t]|
 [%𝐟]:[e f t u ts n ee m a t e m a t i c k ee]|
 [%𝑓]:[e f k u r z ii v a m a t e m a t i c k ee]|
@@ -131,6 +141,8 @@ define UnicodeLseq
 [%𝘧]:[e f k u r z ii v a b e s p ae t k o v ee m a t e m a t i c k ee]|
 [%𝙛]:[e f t u ts n ee k u r z ii v a b e s p ae t k o v ee m a t e m a t i c k ee]|
 [%𝚏]:[e f s p e v n o u sh ii r k o u m a t e m a t i c k ee]|
+[%ⓕ]:[e v z a k r uu sh k o v a n ee]|
+[%⒡]:[e v v z aa t v o r k e]|
 [%ǵ]:[g ee z d iil ll zh nj o m]|
 [%ĝ]:[g ee z v o k aa nj o m]|
 [%ḡ]:[g ee z m a k r oo n o m]|
@@ -150,6 +162,8 @@ define UnicodeLseq
 [%𝘨]:[g ee k u r z ii v a b e s p ae t k o v ee m a t e m a t i c k ee]|
 [%𝙜]:[g ee t u ts n ee k u r z ii v a b e s p ae t k o v ee m a t e m a t i c k ee]|
 [%𝚐]:[g ee s p e v n o u sh ii r k o u m a t e m a t i c k ee]|
+[%ⓖ]:[g ee z a k r uu sh k o v a n ee]|
+[%⒢]:[g ee v z aa t v o r k e]|
 [%ĥ]:[h aa z v o k aa nj o m]|
 [%ḣ]:[h aa z b o t k o u n a t]|
 [%ḧ]:[h aa s p r e h l aa s k o u]|
@@ -167,6 +181,8 @@ define UnicodeLseq
 [%𝘩]:[h aa k u r z ii v a b e s p ae t k o v ee m a t e m a t i c k ee]|
 [%𝙝]:[h aa t u ts n ee k u r z ii v a b e s p ae t k o v ee m a t e m a t i c k ee]|
 [%𝚑]:[h aa s p e v n o u sh ii r k o u m a t e m a t i c k ee]|
+[%ⓗ]:[h aa z a k r uu sh k o v a n ee]|
+[%⒣]:[h aa v z aa t v o r k e]|
 [%ì]:[ii s p iir r ii z v u k o m]|
 [%î]:[ii z v o k aa nj o m]|
 [%ĩ]:[ii z v iil l n o u k o u]|
@@ -192,6 +208,8 @@ define UnicodeLseq
 [%𝘪]:[ii k u r z ii v a b e s p ae t k o v ee m a t e m a t i c k ee]|
 [%𝙞]:[ii t u ts n ee k u r z ii v a b e s p ae t k o v ee m a t e m a t i c k ee]|
 [%𝚒]:[ii s p e v n o u sh ii r k o u m a t e m a t i c k ee]|
+[%ⓘ]:[ii z a k r uu sh k o v a n ee]|
+[%⒤]:[ii v z aa t v o r k e]|
 [%ĵ]:[j ee z v o k aa nj o m]|
 [%ǰ]:[j ee z m ae k ts e nj o m]|
 [%𝐣]:[j ee t u ts n ee m a t e m a t i c k ee]|
@@ -207,6 +225,8 @@ define UnicodeLseq
 [%𝘫]:[j ee k u r z ii v a b e s p ae t k o v ee m a t e m a t i c k ee]|
 [%𝙟]:[j ee t u ts n ee k u r z ii v a b e s p ae t k o v ee m a t e m a t i c k ee]|
 [%𝚓]:[j ee s p e v n o u sh ii r k o u m a t e m a t i c k ee]|
+[%ⓙ]:[j ee z a k r uu sh k o v a n ee]|
+[%⒥]:[j ee v z aa t v o r k e]|
 [%ḱ]:[k aa z d iil ll zh nj o m]|
 [%ǩ]:[k aa z m ae k ts e nj o m]|
 [%ķ]:[k aa s c e dj i l l o u]|
@@ -223,6 +243,8 @@ define UnicodeLseq
 [%𝘬]:[k aa k u r z ii v a b e s p ae t k o v ee m a t e m a t i c k ee]|
 [%𝙠]:[k aa t u ts n ee k u r z ii v a b e s p ae t k o v ee m a t e m a t i c k ee]|
 [%𝚔]:[k aa s p e v n o u sh ii r k o u m a t e m a t i c k ee]|
+[%ⓚ]:[k aa z a k r uu sh k o v a n ee]|
+[%⒦]:[k aa v z aa t v o r k e]|
 [%ļ]:[e l s c e dj i l l o u]|
 [%𝐥]:[e l t u ts n ee m a t e m a t i c k ee]|
 [%𝑙]:[e l k u r z ii v a m a t e m a t i c k ee]|
@@ -237,6 +259,8 @@ define UnicodeLseq
 [%𝘭]:[e l k u r z ii v a b e s p ae t k o v ee m a t e m a t i c k ee]|
 [%𝙡]:[e l t u ts n ee k u r z ii v a b e s p ae t k o v ee m a t e m a t i c k ee]|
 [%𝚕]:[e l s p e v n o u sh ii r k o u m a t e m a t i c k ee]|
+[%ⓛ]:[e l z a k r uu sh k o v a n ee]|
+[%⒧]:[e l v z aa t v o r k e]|
 [%ḿ]:[e m z d iil ll zh nj o m]|
 [%ṁ]:[e m z b o t k o u n a t]|
 [%𝐦]:[e m t u ts n ee m a t e m a t i c k ee]|
@@ -252,6 +276,8 @@ define UnicodeLseq
 [%𝘮]:[e m k u r z ii v a b e s p ae t k o v ee m a t e m a t i c k ee]|
 [%𝙢]:[e m t u ts n ee k u r z ii v a b e s p ae t k o v ee m a t e m a t i c k ee]|
 [%𝚖]:[e m s p e v n o u sh ii r k o u m a t e m a t i c k ee]|
+[%ⓜ]:[e m z a k r uu sh k o v a n ee]|
+[%⒨]:[e m v z aa t v o r k e]|
 [%ǹ]:[e n s p iir r ii z v u k o m]|
 [%ń]:[e n z d iil ll zh nj o m]|
 [%ñ]:[e n z v iil l n o u k o u]|
@@ -270,6 +296,8 @@ define UnicodeLseq
 [%𝘯]:[e n k u r z ii v a b e s p ae t k o v ee m a t e m a t i c k ee]|
 [%𝙣]:[e n t u ts n ee k u r z ii v a b e s p ae t k o v ee m a t e m a t i c k ee]|
 [%𝚗]:[e n s p e v n o u sh ii r k o u m a t e m a t i c k ee]|
+[%ⓝ]:[e n z a k r uu sh k o v a n ee]|
+[%⒩]:[e n v z aa t v o r k e]|
 [%ò]:[oo s p iir r ii z v u k o m]|
 [%õ]:[oo z v iil l n o u k o u]|
 [%ṍ]:[oo z v iil l n o u k o u a z d iil ll zh nj o m]|
@@ -301,6 +329,8 @@ define UnicodeLseq
 [%𝘰]:[oo k u r z ii v a b e s p ae t k o v ee m a t e m a t i c k ee]|
 [%𝙤]:[oo t u ts n ee k u r z ii v a b e s p ae t k o v ee m a t e m a t i c k ee]|
 [%𝚘]:[oo s p e v n o u sh ii r k o u m a t e m a t i c k ee]|
+[%ⓞ]:[oo z a k r uu sh k o v a n ee]|
+[%⒪]:[oo v z aa t v o r k e]|
 [%ṕ]:[p ee z d iil ll zh nj o m]|
 [%ṗ]:[p ee z b o t k o u n a t]|
 [%𝐩]:[p ee t u ts n ee m a t e m a t i c k ee]|
@@ -316,6 +346,8 @@ define UnicodeLseq
 [%𝘱]:[p ee k u r z ii v a b e s p ae t k o v ee m a t e m a t i c k ee]|
 [%𝙥]:[p ee t u ts n ee k u r z ii v a b e s p ae t k o v ee m a t e m a t i c k ee]|
 [%𝚙]:[p ee s p e v n o u sh ii r k o u m a t e m a t i c k ee]|
+[%ⓟ]:[p ee z a k r uu sh k o v a n ee]|
+[%⒫]:[p ee v z aa t v o r k e]|
 [%𝐪]:[k v ee t u ts n ee m a t e m a t i c k ee]|
 [%𝑞]:[k v ee k u r z ii v a m a t e m a t i c k ee]|
 [%𝒒]:[k v ee t u ts n ee k u r z ii v a m a t e m a t i c k ee]|
@@ -329,6 +361,8 @@ define UnicodeLseq
 [%𝘲]:[k v ee k u r z ii v a b e s p ae t k o v ee m a t e m a t i c k ee]|
 [%𝙦]:[k v ee t u ts n ee k u r z ii v a b e s p ae t k o v ee m a t e m a t i c k ee]|
 [%𝚚]:[k v ee s p e v n o u sh ii r k o u m a t e m a t i c k ee]|
+[%ⓠ]:[k v ee z a k r uu sh k o v a n ee]|
+[%⒬]:[k v ee v z aa t v o r k e]|
 [%ṙ]:[e r z b o t k o u n a t]|
 [%ȑ]:[e r z d v o j i t yy m p iir r ii z v u k o m]|
 [%ȓ]:[e r s o b r aa tj e n yy m o b l uu ts i k o m]|
@@ -346,6 +380,8 @@ define UnicodeLseq
 [%𝘳]:[e r k u r z ii v a b e s p ae t k o v ee m a t e m a t i c k ee]|
 [%𝙧]:[e r t u ts n ee k u r z ii v a b e s p ae t k o v ee m a t e m a t i c k ee]|
 [%𝚛]:[e r s p e v n o u sh ii r k o u m a t e m a t i c k ee]|
+[%ⓡ]:[e r z a k r uu sh k o v a n ee]|
+[%⒭]:[e r v z aa t v o r k e]|
 [%ś]:[e z z d iil ll zh nj o m]|
 [%ṥ]:[e z z d iil ll zh nj o m a z b o t k o u n a t]|
 [%ŝ]:[e z z v o k aa nj o m]|
@@ -365,6 +401,8 @@ define UnicodeLseq
 [%𝘴]:[e s k u r z ii v a b e s p ae t k o v ee m a t e m a t i c k ee]|
 [%𝙨]:[e s t u ts n ee k u r z ii v a b e s p ae t k o v ee m a t e m a t i c k ee]|
 [%𝚜]:[e s s p e v n o u sh ii r k o u m a t e m a t i c k ee]|
+[%ⓢ]:[e z z a k r uu sh k o v a n ee]|
+[%⒮]:[e z v z aa t v o r k e]|
 [%ṫ]:[t ee z b o t k o u n a t]|
 [%ẗ]:[t ee s p r e h l aa s k o u]|
 [%ț]:[t ee s ts i a r k o u p o t]|
@@ -382,6 +420,8 @@ define UnicodeLseq
 [%𝘵]:[t ee k u r z ii v a b e s p ae t k o v ee m a t e m a t i c k ee]|
 [%𝙩]:[t ee t u ts n ee k u r z ii v a b e s p ae t k o v ee m a t e m a t i c k ee]|
 [%𝚝]:[t ee s p e v n o u sh ii r k o u m a t e m a t i c k ee]|
+[%ⓣ]:[t ee z a k r uu sh k o v a n ee]|
+[%⒯]:[t ee v z aa t v o r k e]|
 [%ù]:[uu s p iir r ii z v u k o m]|
 [%û]:[uu z v o k aa nj o m]|
 [%ũ]:[uu z v iil l n o u k o u]|
@@ -408,6 +448,8 @@ define UnicodeLseq
 [%𝘶]:[uu k u r z ii v a b e s p ae t k o v ee m a t e m a t i c k ee]|
 [%𝙪]:[uu t u ts n ee k u r z ii v a b e s p ae t k o v ee m a t e m a t i c k ee]|
 [%𝚞]:[uu s p e v n o u sh ii r k o u m a t e m a t i c k ee]|
+[%ⓤ]:[uu z a k r uu sh k o v a n ee]|
+[%⒰]:[uu v z aa t v o r k e]|
 [%ṽ]:[v ee z v iil l n o u k o u]|
 [%𝐯]:[v ee t u ts n ee m a t e m a t i c k ee]|
 [%𝑣]:[v ee k u r z ii v a m a t e m a t i c k ee]|
@@ -422,6 +464,8 @@ define UnicodeLseq
 [%𝘷]:[v ee k u r z ii v a b e s p ae t k o v ee m a t e m a t i c k ee]|
 [%𝙫]:[v ee t u ts n ee k u r z ii v a b e s p ae t k o v ee m a t e m a t i c k ee]|
 [%𝚟]:[v ee s p e v n o u sh ii r k o u m a t e m a t i c k ee]|
+[%ⓥ]:[v ee z a k r uu sh k o v a n ee]|
+[%⒱]:[v ee v z aa t v o r k e]|
 [%ẁ]:[d v o j i t ee v ee s p iir r ii z v u k o m]|
 [%ẃ]:[d v o j i t ee v ee z d iil ll zh nj o m]|
 [%ŵ]:[d v o j i t ee v ee z v o k aa nj o m]|
@@ -441,6 +485,8 @@ define UnicodeLseq
 [%𝘸]:[d v o j i t ee v ee k u r z ii v a b e s p ae t k o v ee m a t e m a t i c k ee]|
 [%𝙬]:[d v o j i t ee v ee t u ts n ee k u r z ii v a b e s p ae t k o v ee m a t e m a t i c k ee]|
 [%𝚠]:[d v o j i t ee v ee s p e v n o u sh ii r k o u m a t e m a t i c k ee]|
+[%ⓦ]:[d v o j i t ee v ee z a k r uu sh k o v a n ee]|
+[%⒲]:[d v o j i t ee v ee v z aa t v o r k e]|
 [%ẋ]:[i k s z b o t k o u n a t]|
 [%ẍ]:[i k s s p r e h l aa s k o u]|
 [%𝐱]:[i k s t u ts n ee m a t e m a t i c k ee]|
@@ -456,6 +502,8 @@ define UnicodeLseq
 [%𝘹]:[i k s k u r z ii v a b e s p ae t k o v ee m a t e m a t i c k ee]|
 [%𝙭]:[i k s t u ts n ee k u r z ii v a b e s p ae t k o v ee m a t e m a t i c k ee]|
 [%𝚡]:[i k s s p e v n o u sh ii r k o u m a t e m a t i c k ee]|
+[%ⓧ]:[i k s z a k r uu sh k o v a n ee]|
+[%⒳]:[i k s v z aa t v o r k e]|
 [%ỳ]:[y p s i l oo n s p iir r ii z v u k o m]|
 [%ŷ]:[y p s i l oo n z v o k aa nj o m]|
 [%ỹ]:[y p s i l oo n z v iil l n o u k o u]|
@@ -477,6 +525,8 @@ define UnicodeLseq
 [%𝘺]:[y p s i l oo n k u r z ii v a b e s p ae t k o v ee m a t e m a t i c k ee]|
 [%𝙮]:[y p s i l oo n t u ts n ee k u r z ii v a b e s p ae t k o v ee m a t e m a t i c k ee]|
 [%𝚢]:[y p s i l oo n s p e v n o u sh ii r k o u m a t e m a t i c k ee]|
+[%ⓨ]:[y p s i l oo n z a k r uu sh k o v a n ee]|
+[%⒴]:[y p s i l oo n v z aa t v o r k e]|
 [%ź]:[z e d z d iil ll zh nj o m]|
 [%ẑ]:[z e d z v o k aa nj o m]|
 [%ż]:[z e d z b o t k o u n a t]|
@@ -493,6 +543,8 @@ define UnicodeLseq
 [%𝘻]:[z e t k u r z ii v a b e s p ae t k o v ee m a t e m a t i c k ee]|
 [%𝙯]:[z e t t u ts n ee k u r z ii v a b e s p ae t k o v ee m a t e m a t i c k ee]|
 [%𝚣]:[z e t s p e v n o u sh ii r k o u m a t e m a t i c k ee]|
+[%ⓩ]:[z e d z a k r uu sh k o v a n ee]|
+[%⒵]:[z e d v z aa t v o r k e]|
 [%ø]:[p r e sh k iir r t n u t ee oo]|
 [%đ]:[d ee s o sh i k m yy m d iil ll zh nj o m]|
 [%ħ]:[h aa s o sh i k m yy m d iil ll zh nj o m]|

@@ -20,11 +20,15 @@ define Punctuation
 %!:[výkričník] | 
 %::[dvojbodka] | 
 %;:[bodkočiarka] | 
+%؛ : [arabská bodkočiarka] |
 %":[úvodzovky] | 
 %':[apostrof] | 
 %(:[zátvorka] | 
+%«:[ľavá bočná úvodzovka] | 
+%»:[pravá bočná úvodzovka] | 
 %):[zatvoriť] | 
 %-:[spojovník] | 
+%‐:[pomlčka spojovník] | 
 %[:[hranatá zátvorka] | 
 %]:[hranatá zatvoriť] | 
 %{:[zložená zátvorka] | 
@@ -37,8 +41,8 @@ define Symbol
 %|:[zvislá čiara] | 
 %…:[tri bodky] |
 %“:[horné úvodzovky] |
-%”:[dvojitá horná opačná úvodzovka] |
-%‘:[horné jednoduché úvodzovky] |
+%”:[úvodzovka vpravo hore] |
+%‘:[ľavý apostrof] |
 %’:[odsuvník] |
 %–:[pomlčka] |
 %—:[dlhá pomlčka] |
@@ -48,25 +52,26 @@ define Symbol
 %´:[dĺžeň] |
 %¸:[sédi] |
 %¶:[označenie odseku] |
-%®:[registrované] |
-%™:[ochranná známka] |
+%®:[registrovaná známka] |
+%™:[obchodná známka] |
 %©:[značka autorských práv] |
 %ƒ:[florén] |
 %¦:[prerušená čiara] |
 %¡:[obrátený výkričník] |
 %¿:[obrátený otáznik] |
-%·:[bodka v prostriedku] |
-%‚:[dolné jednoduché úvodzovky] |
-%„:[dolné úvodzovky] |
+%·:[stredná bodka] |
+%‚:[pravý dolný apostrof] |
+%„:[úvodzovka vpravo dole] |
 %′:[indexová čiarka] |
 %″:[dvojitá indexová čiarka] |
 %‴:[trojitá indexová čiarka] |
 %~:[vlnovka] |
 %º:[ženský rod] |
-%‾ : [čiara nad] |
-%― : [vertikálna čiara] |
-%・ : [bodka v prostriedku katakana] |
-%، : [arabská čiarka] |
+%‾ : [horná čiara] |
+%― : [vodorovná čiara] |
+%・ : [katakanová stredná bodka] |
+%؟ : [arabský otáznik] |%، : [arabská čiarka] |
+%؟ : [arabský otáznik] |
 %‽ : [interrobang] |
 %、 : [ideografická čiarka] |
 %。 : [ideografická bodka] |
@@ -76,21 +81,19 @@ define Symbol
 %》 : [dvojitá lomená zatvoriť] |
 %「 : [rohová zátvorka] |
 %」 : [rohová zatvoriť] |
-%『 : [biela rohová zátvorka] |
-%』 : [biela rohová zatvoriť] |
-%‸ : [striežka] |
-%※ : [referenčná značka] |
-%℗ : [autorské práva na nahrávku] ; 
-
-define UntranslatedSymbols 
- %【 : [ostasiatesch schwaarz konkav klamer op]
- | %】 : [ostasiatesch schwaarz konkav klamer zou]
- | %〔 : [ostasiatesch schildkröteklamer op]
- | %〕 : [ostasiatesch schildröteklamer zou] 
- | %〖 : [ostasiatesch huel konkav klamer op]
- | %〗 : [ostasiatesch huel konkav klamer zou]
- | %‧ : [bindepunkt] 
- | %⁂ : [dräifachstär] ;
+%『 : [dutá rohová zátvorka] |
+%』 : [dutá rohová zatvoriť] |
+%‸ : [vsuvka] |
+%※ : [komedžiruši] |
+%℗ : [autorské práva na nahrávku] |
+%【 : [plná šošovková zátvorka] |
+%】 : [plná šošovková zatvoriť] |
+%〔 : [ázijská komentárová zátvorka] |
+%〕 : [ázijská komentárová zatvoriť] |
+%〖 : [dutá šošovková zátvorka] |
+%〗 : [dutá šošovková zatvoriť] |
+%‧ : [spojovacia bodka] |
+%⁂ : [asterizmus] ;
 
 
 source SpokenSymbols.foma
